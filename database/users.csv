@@ -1,0 +1,3 @@
+userID,username,email,passwordHash,role
+5781,fiqki,fiqki@gmail.com,b7f39a8d41f6fa319704c14ec88adcffc354765474236530a1efcab17956a0d9,creator
+4013,fia,fia@gmail.com,69073b15cd6065f3996252ee6e8e362feba26df1d98f3898ebe4e33654fe4754,admin
